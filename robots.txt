@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /
 Allow: /$
 
-Sitemap: http://example.com/sitemap_location.xml
+Sitemap: http://hwani5.github.io/sitemap.xml
